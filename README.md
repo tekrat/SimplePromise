@@ -5,7 +5,7 @@ Create a basic promise system for processing
 
 Example Usage:
 ======
-
+<pre>
   **
   var objPromise = new SimplePromise();<br />
   //Reset the default <br />
@@ -31,6 +31,7 @@ Example Usage:
 		function(data){...do something}, <br />
 		// No error function, use default error process<br />
 	)<br />
+</pre>
 
 Disclaimer
 =====
